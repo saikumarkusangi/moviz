@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "moviz",
+    "slug": "moviz",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "/home/nk/moviz/assets/images/icon.png",
+    "scheme": "myapp",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "image": "/home/nk/moviz/assets/images/jj.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#000000"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "/home/nk/moviz/assets/images/jj.png",
+        "backgroundColor": "#000"
+      }
+    },
+    "web": {
+      "favicon": "./assets/images/favicon.png"
+    },
+    "description": ""
+  }
+}
